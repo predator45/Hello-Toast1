@@ -1,5 +1,1 @@
-# Hello-Toast1
-tugas 2 Pengembangan Aplikasi Mobile
-Nama : Nurdiansyah Pratama
-Kelas C
-<img width="1022" height="1612" alt="image" src="https://github.com/user-attachments/assets/c9e12e43-882c-4a0e-8f00-6acb1615ed94" />
+<img width="1361" height="717" alt="Screenshot 2025-09-29 195701" src="https://github.com/user-attachments/assets/7cdb89f1-4377-4ace-a25c-6eaab70820d8" />
